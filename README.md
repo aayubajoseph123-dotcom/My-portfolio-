@@ -26,7 +26,7 @@
   </ul>
 
   <h2>Contact Me</h2>
-  <p>Email: your@email.com</p>
-
+  
+<p>Email: <a href="mailto:aayubajoseph123@gmail.com 
 </body>
 </html>
