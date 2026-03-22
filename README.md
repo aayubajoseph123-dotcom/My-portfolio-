@@ -1,8 +1,42 @@
+<title>My Portfolio</title>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Portfolio</title>
+<style>
+  body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+
+  h1 {
+    color: #333;
+  }
+
+  h2 {
+    color: #555;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    background: #fff;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+</style>
+
 </head>
 <body>
   <h1>Hi, I'm Joseph</h1>
